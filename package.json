@@ -98,7 +98,7 @@
     "file-loader": "1.1.5",
     "fs-extra": "3.0.1",
     "history": "4.2.0",
-    "html-webpack-plugin": "2.29.0",
+    "html-webpack-plugin": "5.5.1",
     "in-publish": "2.0.0",
     "jest": "24.1.0",
     "jsdom": "8.1.0",
